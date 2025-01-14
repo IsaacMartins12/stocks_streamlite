@@ -1,5 +1,7 @@
 # Interactive Stock Visualization with Streamlit
 
+![Alt text](./image.png)
+
 ## 📋 Description
 
 This project allows users to visualize the historical stock prices of multiple stocks interactively in real-time using Streamlit and Plotly. By inputting a list of stock tickers (e.g., PETR4.SA, VALE3.SA, ITUB4.SA), the app fetches data from Yahoo Finance and displays an interactive line chart showing the stock prices over time. The application automatically updates every 30 seconds to ensure the displayed data remains current.
